@@ -1,4 +1,4 @@
-# Reproductive trait shift in Pinus contorta leads to increased invasiveness in Aotearoa New Zealand
+# Reproductive trait shift in *Pinus contorta* leads to increased invasiveness in Aotearoa New Zealand
 
 This repository houses data, code, and any additional files associated with the manuscript entitled: Reproductive trait shift in *Pinus contorta* leads to increased invasiveness in Aotearoa New Zealand.
 
@@ -9,7 +9,7 @@ The data and code in this repository are freely accessible, however must be corr
 ## Citing this work
 
 All publications or works produced using the available code or data should use the following citation:
-Carlin, TF. Scott MB. Dean, F. Paul, TSH. (2023). *Reproductive trait shift in Pinus contorta leads to increased invasiveness in Aotearoa New Zealand* [Manuscript submitted for publication]
+Carlin, TF. Scott MB. Dean, F. Paul, TSH. (2023). *Reproductive trait shift in *Pinus contorta* leads to increased invasiveness in Aotearoa New Zealand* [Manuscript submitted for publication]
 
 ## Funding and Acknowledgements
 Funding for this work was provided by MBIE under Science investment contract C04X2102 (Endeavour programme Vive la résistance).
