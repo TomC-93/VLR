@@ -8,7 +8,7 @@ To understand and prevent the recurring reinvasion of vulnerable land to wilding
 
 
 ![IMG_1738](https://user-images.githubusercontent.com/90012658/218622910-75ebdab6-dff1-4a5b-bdc5-26944b59978c.JPG)
-> Dr Thomas Paul looking at a recently sprayed wilding conifer invasion along the Clarence River. He can sense the reinvasion coming...
+> Dr Thomas Paul looking at a recently sprayed wilding conifer invasion along the Clarence River. Hints of green in the sprayed area indicate survival of wilding conifers. He can sense the reinvasion coming...
 
 ## Research Areas
 
