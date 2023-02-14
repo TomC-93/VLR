@@ -6,6 +6,8 @@ This manuscript is currently under consideration at the *New Zealand Journal of 
 
 The data and code in this repository are freely accessible, however must be correctly cited in all future uses.
 
+If files are not the most recent version and you would like to see the most recent version, contact Thomas Carlin at Tom.Carlin@ScionResearch.com
+
 ## Citing this work
 
 All publications or works produced using the available code or data should use the following citation:
