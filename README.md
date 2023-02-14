@@ -37,9 +37,6 @@ Led by Dr Thomas Paul and the team at Scion Research, real world control approac
 
 All Research Areas are being strongly supported by a team at Manaaki Whenua Landcare Research led by Duane Peltzer.
 
-
-![circle658](https://user-images.githubusercontent.com/90012658/218623160-58ec9d14-afd2-452a-affb-69feb29adad4.png)
-
 ## Funding Statement:
 
 Funding for this work was provided by MBIE under Science investment contract C04X2102 (Endeavour programme Vive la résistance).
@@ -51,3 +48,4 @@ The files provided by Scion in this repository relate to different projects, man
 
 ![image](https://user-images.githubusercontent.com/90012658/218622615-309fa334-5915-4bad-9d2e-820d7803d646.png)
 
+![circle658](https://user-images.githubusercontent.com/90012658/218623160-58ec9d14-afd2-452a-affb-69feb29adad4.png)
