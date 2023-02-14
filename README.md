@@ -1,6 +1,5 @@
-<p align="center">
-    <![VLR](https://user-images.githubusercontent.com/90012658/218618463-8cec777d-13a2-4d3d-9c5a-3701cbcf4447.png)>
-</p>
+![VLR](https://user-images.githubusercontent.com/90012658/218618463-8cec777d-13a2-4d3d-9c5a-3701cbcf4447.png)
+
 
 
 
