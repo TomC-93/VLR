@@ -7,8 +7,8 @@ The files contained in this repository relate directly to the work conducted for
 To understand and prevent the recurring reinvasion of vulnerable land to wilding conifers in Aotearoa New Zealand. 
 
 
-![image](https://user-images.githubusercontent.com/90012658/218619792-56fb3b93-b620-4bdd-9304-faf973808d28.png)
-> Structure of a theoretical population dynamics model for wilding conifers - understanding and predicting the factors that determine germination success, survival, fecundity, and succession between life stages.
+![IMG_1738](https://user-images.githubusercontent.com/90012658/218622910-75ebdab6-dff1-4a5b-bdc5-26944b59978c.JPG)
+> Dr Thomas Paul looking at a recently sprayed wilding conifer invasion along the Clarence River. He can sense the reinvasion coming...
 
 ## Research Areas
 
@@ -34,7 +34,11 @@ Led by Dr Thomas Paul and the team at Scion Research, real world control approac
 
 
 
-These activities are being strongly supported by a team at Manaaki Whenua led by Duane Peltzer.
+
+All Research Areas are being strongly supported by a team at Manaaki Whenua Landcare Research led by Duane Peltzer.
+
+
+![circle658](https://user-images.githubusercontent.com/90012658/218623160-58ec9d14-afd2-452a-affb-69feb29adad4.png)
 
 ## Funding Statement:
 
