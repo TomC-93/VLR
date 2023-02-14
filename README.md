@@ -12,23 +12,23 @@ To understand and prevent the recurring reinvasion of vulnerable land to wilding
 
 ## Research Areas
 
-### RA1. Quantifying Reinvasion
+### 1. Quantifying Reinvasion
 
 Led by Dr Thomas Paul and the team at Scion Research, detailed experiments and observations will determine the rates in which wilding conifers re-establish their populations post-control efforts. This understanding is critical in understanding how, when, and whether we should undertake control efforts in certain areas again.
 
-### RA2. Understand Reinvasion
+### 2. Understand Reinvasion
 
 Led by Dist. Prof. Philip Hulme and the team at Lincoln University, they will characterise the ecosystem components that drive resistance to reinvasion and identify novel treatments to increase biotic resistance to reinvasion.
 
-### RA3. Prevent Reinvasion
+### 3. Prevent Reinvasion
 
 Led by Prof. Ian Dickie and the team at the University of Canterbury, they will test treatments that reduce reinvasion and identify which treatments are most promising. They will apply theory from RAs 1+2 to offer practical solutions for stakeholders.
 
-### RA4. Manage Reinvasion
+### 4. Manage Reinvasion
 
 Led by Dr Thomas Paul and the team at Scion Research, detailed models will be created to help understand when, and how much, effort should be applied in wilding control. Building off of the data collected in RA1, two modelling components will be created: i) a wind model to understand the levels of propragule pressure in the landscape, and ii) a detailed population dynamics model to predict how control efforts will affect existing wilding populations.
 
-### RA5. Engage
+### 5. Engage
 
 Led by Dr Thomas Paul and the team at Scion Research, real world control approaches utilising mātauranga will be developed with mana whenua to ensure we can restore lands and protect taonga species.
 
