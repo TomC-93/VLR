@@ -42,8 +42,6 @@ All Research Areas are being strongly supported by a team at Manaaki Whenua Land
 Funding for this work was provided by MBIE under Science investment contract C04X2102 (Endeavour programme Vive la résistance).
 
 ## Disclaimer
-
-### Disclaimer
 The files provided by Scion in this repository relate to different projects, manuscripts, or authors. They may be at varying levels of quality or through various stages of peer-review (or receive no peer-review in some instances). While we have made reasonable endeavours to ensure the accuracy of all files/code/data, these files may still be under development or may have not yet been fully validated. In addition, Scion is not responsible for any changes/updates/maintenance of any R packages on which these files rely which may lead to unintended consequences or results from these files. Accordingly, these files are provided without warranties of any kind including accuracy, timeliness or fitness for any particular purpose. To the fullest extent permitted by law, Scion excludes liability for any loss, damage or expense, direct or indirect resulting from any person or organisation's use of or reliance on these functions.
 
 ![image](https://user-images.githubusercontent.com/90012658/218622615-309fa334-5915-4bad-9d2e-820d7803d646.png)
