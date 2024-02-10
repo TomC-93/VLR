@@ -1,4 +1,5 @@
-# Data associated with _Conifer samara structure diverges across the height of the tree crown_ which has been accepted for publication in _New Zealand Plant Protection_
+# Data associated with _Conifer samara structure diverges across the height of the tree crown_ 
+## Accepted for publication in _New Zealand Plant Protection_
 
 ## Description
 
