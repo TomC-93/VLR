@@ -15,7 +15,7 @@ Carlin, T.F., Vautrin, A.J., Paul, T.S.H., Rolando, C., Davidson, S.J., & Scott,
 
 ### Disclaimer
 
-These data are made freely accessible by Scion in the interest of openness and data sharing. While we have made reasonable endeavours to ensure its accuracy, these data are provided without warranties of any kind including accuracy or fitness for any particular purpose. To the fullest extent permitted by law, Scion excludes liability for any loss, damage or expense, direct or indirect resulting from any person or organisation's use of or reliance on these data.
+These data are made freely accessible by Scion in the interest of openness and data sharing. While we have made reasonable endeavours to ensure their accuracy, these data are provided without warranties of any kind including accuracy or fitness for any particular purpose. To the fullest extent permitted by law, Scion excludes liability for any loss, damage or expense, direct or indirect resulting from any person or organisation's use of or reliance on these data.
 
 For questions or concerns, please contact the corresponding author Dr Thomas Carlin: tom.carlin@scionresearch.com
 
