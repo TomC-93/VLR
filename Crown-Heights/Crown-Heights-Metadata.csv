@@ -1,0 +1,25 @@
+Variable Name,Description,Units of Measurement,Format,Example
+region,Region of New Zealand in which data were collected. For these data this is consistently PUK (short for Lake Pukaki). ,-,factor,PUK
+tree,Tree identifier (1 - 3),-,factor,1
+tree_height,"Height of the tree, measured in metres. Trees were heighted after cutting them down.",m,double,9.54
+tree_x,"Orthogonal measurement of the widest part of the tree crown, measured in metres.",m,double,3.42
+tree_y,"Orthogonal measurement of the tree crown perpendicular to tree_x, measured in metres.",m,double,2.48
+dbh,"Diameter of the tree trunk at breast height, measured in cm at 1.4m above ground level.",cm,double,9.12
+tree_age,Age of the tree in years,years,integer,8
+position,"Position of the crown height a cone was found in (Top, Bottom, or Mid-Height). Top and bottom were the 2 whorls at either the top of bottom. Mid-Height was any whorl in between.",-,factor,BOT
+cone,Cone identifier,-,factor,T1_BOT_C1
+seed,Seed identifier,-,factor,S5
+cone_length,"Length of the cone from base to tip, measured using calipers.",mm,double,50.2
+undev_seed_count,Count of the number of undeveloped (immature) seed present in the mature cone.,count,integer,34
+dev_seed_count,Count of the number of developed seed present in the mature cone.,count,integer,52
+seed_mg,"Seed mass, without the wing, measured in milligrams.",mg,double,4.3
+wing_area_mm2,"Area of the wing, converted from pixel counts using ""circle_area_mm2"" as a reference",mm2,double,62.61
+wing_width_mm,"Width of the wing, converted from pixel counts using ""circle_width_mm"" as a reference",mm,double,4.74
+wing_length_mm,"Length of the wing, converted from pixel counts using ""circle_width_mm"" as a reference",mm,double,17.56
+seed_area_mm2,"Area of the seed, converted from pixel counts using ""circle_area_mm2"" as a reference",mm2,double,6.03
+seed_width_mm,"Width of the seed, converted from pixel counts using ""circle_width_mm"" as a reference",mm,double,2.19
+seed_length_mm,"Length of the seed, converted from pixel counts using ""circle_width_mm"" as a reference",mm,double,3.81
+circle_area_mm2,Area of the 5mm reference circle,mm2,double,19.63
+circle_width_mm,Width of the 5mm reference circle,mm,double,5
+cone_x,"Orthogonal measurement of the cone at it's widest point, measured using calipers.",mm,double,23.07
+cone_y,"Orthogonal measurement of the cone directly perpendicular to ""cone_x"", measured using calipers.",mm,double,23.02
