@@ -11,7 +11,9 @@ Data collection methodology is available in the published manuscript. Contact th
 
 Please fully cite this work when using the data provided, or referencing the methodology, results, or conclusions.
 
-Carlin, T.F., Vautrin, A.J., Paul, T.S.H., Rolando, C., Davidson, S.J., & Scott, M.B. (2024) Conifer samara structure diverges across the height of the tree crown. _New Zealand Plant Protection_ (In Press)
+Carlin, T.F., Vautrin, A.J., Paul, T.S.H., Rolando, C., Davidson, S.J., & Scott, M.B. (2024) Conifer samara structure diverges across the height of the tree crown. _New Zealand Plant Protection_
+
+Access the full article here: https://journal.nzpps.org/index.php/nzpp/article/view/11779
 
 ### Disclaimer
 
