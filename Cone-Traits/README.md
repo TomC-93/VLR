@@ -1,5 +1,5 @@
 # Data associated with "Reproductive trait shift in _Pinus contorta_ helps explain invasion success in Aotearoa New Zealand" 
-## Accepted for publication in _New Zealand Journal of Ecology_
+## _New Zealand Journal of Ecology_
 
 ## Description
 
