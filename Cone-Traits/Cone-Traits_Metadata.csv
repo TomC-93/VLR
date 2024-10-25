@@ -1,0 +1,40 @@
+Variable Name,Description,Units of Measurement,Format,Example
+year,The summer period (in truncated year) when the cone was collected, -,factor,21/22
+collector_id,Identifier of the person collecting the cones (usually their initials), -,factor,TP
+full_id,"Identifier of the cones, including site and tree information", -,factor,P1B
+full_tree,"Identifier of the trees, including site information", -,factor,P1
+site,Site where the cones were collected. For detailed site information see the main text, -,factor,Pukaki
+Population,"Identifier of the population from which cones were collected. For detailed information on population locations, please contact the corresponding author", -,factor,B
+cone_id,"Identifier of the specific cone, excluding tree and site information", -,factor,C
+serot,"Binary indicator of whether a cone was serotinous or not, differentiated by cone opening temperatures", -,factor,Y
+cone_length_mm,"Length of the cone, measured when closed, from base to tip",mm,double,26.4
+cone_x,"Orthogonal measurement of the widest part of the cone, measured in millimetres.",mm,double,14.5
+cone_y,"Orthogonal measurement of the cone perpendicular to cone_x, measured in millimetres.",mm,double,15.2
+no_filled,The number of filled seeds extracted from the cone, -,integer,100
+no_unfilled,The number of unfilled seeds extracted from the cone, -,integer,50
+tot_seed_wgt_g,The total mass of all filled seeds from the cone,g,double,0.43
+mism_g,The mean individual seed mass of seeds extracted from the cone,g,double,0.0042
+seed_1_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_2_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_3_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_4_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_5_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_6_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_7_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_8_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_9_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+seed_10_g,"The mass of a single randomly selected seed, separated from its wing",g,double,0.0038
+no_scal,"The total number of scales on the cone, excluding small basal scales with no visible seed or wing structure underneath the,", -,integer,104
+tot_scale_wt_g,The total mass of all seed scales from the cone,g,double,0.43
+mibm_g,The mean individual bract (seed scale) mass of bracts extracted from the cone,g,double,10.3
+scale_1_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_2_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_3_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_4_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_5_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_6_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_7_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_8_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_9_g,The mass of a single randomly selected cone scale,g,double,0.0038
+scale_10_g,The mass of a single randomly selected cone scale,g,double,0.0038
+no_immature,The number of immature (rudimentary or undeveloped) seed extracted from the cone. Not always counted., - ,integer,73
