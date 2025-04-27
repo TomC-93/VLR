@@ -11,7 +11,7 @@ Data collection methodology is available in the published manuscript. Contact th
 
 Please fully cite this work when using the data provided, or when referencing the methodology, results, or conclusions.
 
-Carlin, TF., Roberts, TP., Scott MB., Vorster, RS., Rolando, CA., & Paul TSH. (In Press) Hiding in plain sight: Reinvasion risk from retained seed after dispersal events in introduced conifers. _Trees, Forests, & People_.
+Carlin, TF., Roberts, TP., Scott MB., Vorster, RS., Rolando, CA., & Paul TSH. (2025) Hiding in plain sight: Reinvasion risk from retained seed after dispersal events in introduced conifers. _Trees, Forests, & People_. https://doi.org/10.1016/j.tfp.2025.100852
 
 Access the full article here: https://www.sciencedirect.com/science/article/pii/S2666719325000780
 
