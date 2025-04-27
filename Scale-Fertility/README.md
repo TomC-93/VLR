@@ -1,4 +1,4 @@
-# Data associated with " _Pinus contorta_ cone scale fertility is similar between two Aotearoa New Zealand sites despite fourfold difference in seed potential"
+# Data associated with "_Pinus contorta_ cone scale fertility is similar between two Aotearoa New Zealand sites despite fourfold difference in seed potential"
 ## _New Zealand Plant Protection_
 
 ## Description
