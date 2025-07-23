@@ -11,7 +11,7 @@ Data collection methodology is available in the published manuscript. Contact th
 
 Please fully cite this work when using the data provided, or referencing the methodology, results, or conclusions.
 
-Carlin, T.F., Scott, M.B., & Paul, T.S.H. (2024) Reproductive trait shift in _Pinus contorta_ helps explain invasion success in Aotearoa New Zealand. _New Zealand Journal of Ecology_. (In Press)
+Carlin, T.F., Scott, M.B., & Paul, T.S.H. (2025) Reproductive trait shift in _Pinus contorta_ helps explain invasion success in Aotearoa New Zealand. _New Zealand Journal of Ecology_.
 
 ### Disclaimer
 
